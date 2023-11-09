@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Serve-Buddy/static/css/main.386e6823.css",
+    "main.js": "/Serve-Buddy/static/js/main.127a08c3.js",
+    "static/js/787.7107cb80.chunk.js": "/Serve-Buddy/static/js/787.7107cb80.chunk.js",
+    "static/media/logo.jpg": "/Serve-Buddy/static/media/logo.661cbb7ea4a348091f9b.jpg",
+    "index.html": "/Serve-Buddy/index.html",
+    "main.386e6823.css.map": "/Serve-Buddy/static/css/main.386e6823.css.map",
+    "main.127a08c3.js.map": "/Serve-Buddy/static/js/main.127a08c3.js.map",
+    "787.7107cb80.chunk.js.map": "/Serve-Buddy/static/js/787.7107cb80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.386e6823.css",
+    "static/js/main.127a08c3.js"
+  ]
+}
