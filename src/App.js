@@ -1,13 +1,10 @@
 
 import  {BrowserRouter,Routes,Route} from "react-router-dom"
 import Home from './pages/Home'
-import Services from './pages/Services'
 
-import Contact from './pages/Conatct'
-import Pagenotfound from "./pages/Pagenotfound";
-import Footer from "./components/Footer";
 
-import Login from "./pages/Login";
+
+
 
 
 function App() {
@@ -22,8 +19,7 @@ function App() {
       
     <Routes>
       <Route path="/" element={<Home />}/>
-      <Route path="/services" element={<Services />}/>
-      <Route  element={<Contact />}/>
+      
       
      
 
@@ -31,7 +27,7 @@ function App() {
     </Routes>
   
      </BrowserRouter>
-     <Footer/> 
+    = 
     </div>
    
     </>
