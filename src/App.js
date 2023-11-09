@@ -6,10 +6,7 @@ import Services from './pages/Services'
 import Contact from './pages/Conatct'
 import Pagenotfound from "./pages/Pagenotfound";
 import Footer from "./components/Footer";
-import Header from "./components/Layout/Header";
-import Work from "./pages/Work";
-import Admin from "./pages/Admin";
-import Test from "./pages/Test";
+
 import Login from "./pages/Login";
 
 
@@ -30,12 +27,9 @@ function App() {
       
       <Route path="/login" element={<Login/>}/>
 
-      <Route path="*" element={<Pagenotfound />}/>
+     
     </Routes>
-     {/* <Routes path='/admin' element={<Admin/>}>
-         <Route path='cf' element={<Admin/>}></Route>
-     </Routes>
-    */}
+  
      </BrowserRouter>
      <Footer/> 
     </div>
